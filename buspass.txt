@@ -1,0 +1,2 @@
+BP101 | Riya | Route 5 | Monthly | Rs. 500
+BP102 | Aman | Route 7 | Yearly | Rs. 3600
